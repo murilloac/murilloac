@@ -1,16 +1,64 @@
-## Hi there 👋
+# Olá, eu sou Murillo A Cunha 👋
 
-<!--
-**murilloac/murilloac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Profissional de TI em transição para a área de DevOps, com experiência em Infraestrutura de TI, operação, automação de processos e melhoria contínua.
 
-Here are some ideas to get you started:
+Atualmente, concentro meus estudos e projetos em:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Docker
+- CI/CD com GitHub Actions
+- Terraform
+- Kubernetes
+- AWS
+- Linux
+- Python para automações
+
+Tenho construído projetos práticos voltados para infraestrutura como código, pipelines de integração e entrega contínua, conteinerização de aplicações e deploy de aplicações em ambientes orquestrados.
+
+---
+
+## 🚀 Stack e Ferramentas
+
+- **Cloud:** AWS
+- **Containers:** Docker, Docker Compose
+- **Orquestração:** Kubernetes
+- **CI/CD:** GitHub Actions
+- **IaC:** Terraform
+- **Scripting/Automation:** Python, Bash
+- **Versionamento:** Git, GitHub
+- **Sistemas:** Linux
+
+---
+
+## 📌 Projetos em destaque
+
+### 🔹 Dockerized Ticket Dashboard
+Aplicação em Python/Streamlit containerizada com Docker para gestão operacional de tickets.
+
+### 🔹 CI/CD Pipeline Lab
+Pipeline automatizado com GitHub Actions para lint, testes, build de imagem Docker e automação de deploy.
+
+### 🔹 Terraform AWS Lab
+Provisionamento de infraestrutura AWS com Terraform, utilizando estrutura modular e boas práticas.
+
+### 🔹 Kubernetes App Deploy
+Deploy declarativo de aplicação containerizada com Deployment, Service, ConfigMap e Namespace.
+
+### 🔹 DevOps End-to-End Project
+Projeto completo integrando aplicação + Docker + CI/CD + Terraform + Kubernetes.
+
+---
+
+## 📚 Em aprendizado contínuo
+
+- AWS Cloud Practitioner
+- Boas práticas de CI/CD
+- Infraestrutura como Código
+- Containers e orquestração
+- Automação e observabilidade
+
+---
+
+## 📫 Contato
+
+- LinkedIn: https://www.linkedin.com/in/murillo-cunha-621329104/
+- E-mail: murilloac92@gmail.com
