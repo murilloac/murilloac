@@ -7,7 +7,7 @@ Atualmente, concentro meus estudos e projetos em:
 - Docker
 - CI/CD com GitHub Actions
 - Terraform
-- Kubernetes
+- Kubernetes - Estudando
 - AWS
 - Linux
 - Python para automações
