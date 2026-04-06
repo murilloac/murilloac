@@ -1,4 +1,4 @@
-# Olá, eu sou Murillo A Cunha 👋
+# Olá, eu sou Murillo A Cunha 
 
 Profissional de TI em transição para a área de DevOps, com experiência em Infraestrutura de TI, operação, automação de processos e melhoria contínua.
 
@@ -16,7 +16,7 @@ Tenho construído projetos práticos voltados para infraestrutura como código, 
 
 ---
 
-## 🚀 Stack e Ferramentas
+##  Stack e Ferramentas
 
 - **Cloud:** AWS
 - **Containers:** Docker, Docker Compose
@@ -29,7 +29,7 @@ Tenho construído projetos práticos voltados para infraestrutura como código, 
 
 ---
 
-## 📌 Projetos em destaque
+##  Projetos em destaque
 
 ### 🔹 Dockerized Ticket Dashboard
 Aplicação em Python/Streamlit containerizada com Docker para gestão operacional de tickets.
@@ -48,7 +48,7 @@ Projeto completo integrando aplicação + Docker + CI/CD + Terraform + Kubernete
 
 ---
 
-## 📚 Em aprendizado contínuo
+##  Em aprendizado contínuo
 
 - AWS Cloud Practitioner
 - Boas práticas de CI/CD
@@ -58,7 +58,7 @@ Projeto completo integrando aplicação + Docker + CI/CD + Terraform + Kubernete
 
 ---
 
-## 📫 Contato
+##  Contato
 
 - LinkedIn: https://www.linkedin.com/in/murillo-cunha-621329104/
 - E-mail: murilloac92@gmail.com
